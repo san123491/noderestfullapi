@@ -1,3 +1,6 @@
 # noderestfullapi
 get Api
-localhost:3000/task
+Request                             URL
+GET                                 localhost:3000/task
+POST                                localhost:3000/todoList
+
